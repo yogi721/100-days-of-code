@@ -1,0 +1,17 @@
+day 1 review:
+-------------
+Headline: h1 h2 h3 h4 h5 h6
+paragraph: p
+commenet: <!-- this is a comment -->
+HTML5 elements: main, header, footer, nav, video, article, section ...
+image : <img src="#" alt="description">
+Link: <a href="#" target="_blank">link to follow</a>
+List: <ul><li> / <ol><li>
+
+forms: 
+form: <form> 
+text field: <input type="text" placeholder="text">
+button: <button type="submit">Send</button> 
+
+
+
