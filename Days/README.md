@@ -9,3 +9,7 @@ Lines removed 27 0% vs. 90-day avg
 Keystrokes 1907 0% vs. 90-day avg
 
 ### Day 2: Thursday, April 8, 2021
+
+### Day 3: completed
+
+### Day 4: completed
